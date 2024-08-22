@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import '../models/lesson_models.dart';
+
 
 class ReadingComprehensionLessonScreen extends StatelessWidget {
-  final ReadingComprehensionLesson lesson;
+  
 
   ReadingComprehensionLessonScreen({required this.lesson});
 
